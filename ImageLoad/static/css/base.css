@@ -1,0 +1,10 @@
+body { padding-top: 70px; }
+@media screen and (max-width: 768px) {
+    body { padding-top: 0px; }
+}
+
+.fltr {
+	/*filter:grayscale(100%);*/
+	/*filter:hue-rotate(90deg);*/
+	filter:sepia(0.9);
+}
